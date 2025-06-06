@@ -7,3 +7,4 @@ node_modules/
 
 # Ignore specific files
 secret.txt
+NPI_May_2025_10GB.*
