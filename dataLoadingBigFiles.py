@@ -5,8 +5,8 @@ import numpy as np
 from datetime import datetime
 #import dask.dataframe as ddf
 
-fileName = r'c:\GitHub\NPIBigDataSetWrangling\NPI_May_2025_10GB.csv'
-# fileName = r'c:\GitHub\NPIBigDataSetWrangling\NPI May 2025 Record Samples 200 Records.csv'
+# fileName = r'c:\GitHub\NPIBigDataSetWrangling\NPI_May_2025_10GB.csv'
+fileName = r'c:\GitHub\NPIBigDataSetWrangling\NPI May 2025 Record Samples 200 Records.csv'
 theCols = ['NPI','Entity Type Code','Provider Organization Name (Legal Business Name)','Provider Last Name (Legal Name)','Provider First Name',
            'Provider Credential Text','Provider First Line Business Mailing Address','Provider Second Line Business Mailing Address','Provider Business Mailing Address City Name',
            'Provider Business Mailing Address State Name','Provider Business Mailing Address Postal Code','Provider Business Mailing Address Country Code (If outside U.S.)',
